@@ -1,0 +1,31 @@
+.homepagecard {
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	border-radius: 0px;
+	margin: 0px auto;
+	flex-basis: 350px;
+	width: 1202px;
+	height: 227px;
+	margin-top: 30px;
+	margin-left: 150px;
+}
+
+.homepagecard img {
+	width: 450px;
+	height: 227px;
+	border-radius: 6px;
+	margin-top: 80px;
+	align-items: center;
+	position: relative;
+}
+
+.homepagecard a {
+	display: inline-block;
+  	float: left;
+  	width: 160px;
+  	height: auto;
+  	text-align: center;
+  	margin-left: 120px;
+  	position: relative;
+}

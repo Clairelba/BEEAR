@@ -1,0 +1,81 @@
+.shopbycolorcard {
+	position: absolute;
+	width: 1206px;
+	height: 370px;
+	left: 140px;
+	top: 333px;
+}
+
+.shopbycolor {
+	margin-top: 215px;
+	font-weight: bold 600;
+	font-size: 50px;
+}
+
+.shopbycolorcard img {
+	width: 280px;
+	height: 280px;
+	border-radius: 5px;
+}
+
+.blondbeer {
+	position: absolute;
+	width: 318px;
+	height: 370px;
+	left: 0px;
+	top: 0px;
+}
+
+.whitebeer {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	left: 450px;
+	top: 0px;
+}
+
+.brownbeer {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	right: 0px;
+	top: 0px;
+}
+
+.shopbycolorcard1 {
+	position: absolute;
+	width: 1206px;
+	height: 370px;
+	left: 140px;
+	top: 800px;
+}
+
+.shopbycolorcard1 img {
+	width: 280px;
+	height: 280px;
+	border-radius: 5px;
+}
+
+.blondbeer1 {
+	position: absolute;
+	width: 318px;
+	height: 370px;
+	left: 0px;
+	top: 0px;
+}
+
+.whitebeer1 {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	left: 450px;
+	top: 0px;
+}
+
+.brownbeer1 {
+	position: absolute;
+	width: 318px;
+	height: 350px;
+	right: 0px;
+	top: 0px;
+}
